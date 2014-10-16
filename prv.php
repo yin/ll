@@ -1,5 +1,8 @@
 <?php
 
-echo "ahoj svet";
+while(true) {
+  echo "ahoj svet";
+  flush();
+}
 
 ?>
